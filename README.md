@@ -91,13 +91,13 @@ gcc tax_calculator.c -o tax_calculator
 ##  Example Input
 
 ```
-Enter your Annual Income (₹): 1200000
+Enter your Annual Income (₹): 2900000
 ```
 
 ##  Output
 
 ```
-Total Tax Payable: ₹0.00
+Total Tax Payable: ₹511290.00
 ```
 
 ---
