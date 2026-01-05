@@ -111,3 +111,9 @@ Total Tax Payable: ₹511290.00
 ```
 
 ---
+
+## Disclaimer
+
+> This software is for educational and estimation purposes only. While it follows the FY 2025-26 structure, tax laws are subject to amendments. Please consult a qualified Chartered Accountant (CA) or financial advisor for official tax filing.
+
+---
