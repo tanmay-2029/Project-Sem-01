@@ -68,50 +68,7 @@ This project demonstrates:
 
 ##Flowchart
 
-+----------------------+
-|   Annual Income      |
-+----------------------+
-           |
-           v
-+----------------------+
-| Standard Deduction   |
-|     (₹75,000)        |
-+----------------------+
-           |
-           v
-+----------------------+
-| Net Taxable Income   |
-+----------------------+
-           |
-           v
-+----------------------+
-| Slab-wise Tax        |
-| Calculation          |
-+----------------------+
-           |
-           v
-+----------------------+
-| Surcharge            |
-| (If Applicable)      |
-+----------------------+
-           |
-           v
-+----------------------+
-| Rebate /             |
-| Marginal Relief      |
-+----------------------+
-           |
-           v
-+----------------------+
-| Add 4% Health &      |
-| Education Cess       |
-+----------------------+
-           |
-           v
-+----------------------+
-| Final Tax Payable    |
-+----------------------+
-
+Annual Income --> Standard Deduction (₹75,000) --> Net Taxable Income --> Slab-wise Tax Calculation --> Surcharge (if applicable) --> Rebate / Marginal Relief --> Add 4% Cess --> Final Tax Payable
 
 ---
 
