@@ -66,7 +66,7 @@ This project demonstrates:
 
 ---
 
-##Flowchart
+## Flowchart
 
 Annual Income --> Standard Deduction (₹75,000) --> Net Taxable Income --> Slab-wise Tax Calculation --> Surcharge (if applicable) --> Rebate / Marginal Relief --> Add 4% Cess --> Final Tax Payable
 
