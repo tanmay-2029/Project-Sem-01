@@ -111,7 +111,3 @@ Total Tax Payable: ₹0.00
 ```
 
 ---
-
-##  Mention
-
-Developed with the help of one of my friend @Roushan-2104
